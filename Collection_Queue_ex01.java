@@ -17,12 +17,12 @@ public class Collection_Queue_ex01 {
 		
 		do {
 			//criando o menu
-			System.out.println("**************************");
-			System.out.println("1 - Adicionar clientes");
-			System.out.println("2 - Listar todos os clientes da fila");
-			System.out.println("3 - retirar clientes da clientes");
-			System.out.println("4 - sair");
-			System.out.println("**************************");
+			System.out.println("----------------------------------------------------");
+			System.out.println("\t1 - Adicionar clientes");
+			System.out.println("\t2 - Listar todos os clientes da fila");
+			System.out.println("\t3 - retirar clientes da clientes");
+			System.out.println("\t4 - sair");
+			System.out.println("----------------------------------------------------");
 			System.out.println("Entre com a opção desejada: ");
 			op=leia.nextInt();
 			
